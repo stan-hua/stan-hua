@@ -5,7 +5,7 @@
 {
     Name: "Stan",
     Location: "Toronto, Ontario",
-    Job: ["SWE Intern @ Intel", "Junior ML Specialist @ SickKids"],
+    Job: ["DS Intern @ Wealthsimple", "Junior ML Specialist @ SickKids"],
     Education: "BS Computer Science (In Progress)",
     Email: "stanley.z.hua@gmail.com",
 }
