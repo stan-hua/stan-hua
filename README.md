@@ -13,7 +13,6 @@
 ```
 🔭 I'm currently working on:
     - Self-Supervised Learning for Ultrasound View Labeling for Children (SickKids)
-    - A use-case specific SQL Code Generator in Python (Intel)
 ```
 ```
 🌱 I’m currently learning about:
