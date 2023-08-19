@@ -1,22 +1,22 @@
-### Welcome! It's nice to see a new face around here 👋
+### Howdy! It's nice to see a new/familiar face around here 👋
 
 
 ```
 {
     Name: "Stan",
     Location: "Toronto, Ontario",
-    Job: ["DS Intern @ Wealthsimple", "Junior ML Specialist @ SickKids"],
+    Job: ["DS Intern @ Wealthsimple"],
     Education: "BS Computer Science (In Progress)",
     Email: "stanley.z.hua@gmail.com",
 }
 ```
 ```
 🔭 I'm currently working on:
-    - Self-Supervised Learning for Ultrasound View Labeling for Children (SickKids)
+    - Creating a scalable and all-purpose labeling engine using LLMs (Wealthsimple)
+    - Applying to grad school and jobs
 ```
 ```
 🌱 I’m currently learning about:
-    - Self-Supervised Learning
     - NLP & Attention in Transformers
 ```
 ```
