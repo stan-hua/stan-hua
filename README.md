@@ -5,23 +5,21 @@
 {
     Name: "Stan",
     Location: "Toronto, Ontario",
-    Job: ["DS Intern @ Wealthsimple"],
     Education: "BS Computer Science (In Progress)",
     Email: "stanley.z.hua@gmail.com",
 }
 ```
 ```
 🔭 I'm currently working on:
-    - Creating a scalable and all-purpose labeling engine using LLMs (Wealthsimple)
-    - Applying to grad school and jobs
+    - Applying to PhD programs in the US starting Fall 2024
 ```
 ```
 🌱 I’m currently learning about:
-    - NLP & Attention in Transformers
+    - DL Methods for ASL Video to Text Translation
 ```
 ```
 👯 I’m looking to collaborate on:
-    - Anything data science / ML
+    - Anything ML
 ```
 
 <!--
