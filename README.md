@@ -11,11 +11,12 @@
 ```
 ```
 🔭 I'm currently working on:
-    - Applying to PhD programs in the US starting Fall 2024
+    - Evaluating a general RNA embedding model for RNA-protein binding
+    - Exploring the effectiveness of multi-modal LMMs on rare diseases
 ```
 ```
 🌱 I’m currently learning about:
-    - DL Methods for ASL Video to Text Translation
+    - how to load and process CLIP-seq data
 ```
 ```
 👯 I’m looking to collaborate on:
