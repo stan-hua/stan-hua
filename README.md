@@ -5,22 +5,25 @@
 {
     Name: "Stan",
     Location: "Toronto, Ontario",
-    Education: "BS Computer Science (In Progress)",
+    Job: "Data Scientist @ SickKids",
+    Education: "BS Computer Science",
     Email: "stanley.z.hua@gmail.com",
 }
 ```
 ```
 🔭 I'm currently working on:
-    - Evaluating a general RNA embedding model for RNA-protein binding
-    - Exploring the effectiveness of multi-modal LMMs on rare diseases
+    - Improving AI-enabled automated view labeling of kidney ultrasound images/videos
+    - Evaluating trustworthiness of LLMs in the clinic and the impact of quantization methods
+    - Evaluating IsoCLR (an mRNA foundation model) against RNA foundation models (trained via MLM or NTP) for predicting RNA-protein binding
+    - Exploring the effectiveness of LLMs when it lacks knowledge of a rare disease
 ```
 ```
 🌱 I’m currently learning about:
-    - how to load and process CLIP-seq data
+    - how to sync OneDrive to a linux server
 ```
 ```
 👯 I’m looking to collaborate on:
-    - Anything ML
+    - Anything ML for Health
 ```
 
 <!--
