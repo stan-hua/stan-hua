@@ -13,13 +13,16 @@
 ```
 🔭 I'm currently working on:
     - Improving AI-enabled automated view labeling of kidney ultrasound images/videos
-    - Evaluating trustworthiness of LLMs in the clinic and the impact of quantization methods
-    - Evaluating IsoCLR (an mRNA foundation model) against RNA foundation models (trained via MLM or NTP) for predicting RNA-protein binding
+    - Investigating of LLMs in the clinic and the impact of quantization methods
     - Exploring the effectiveness of LLMs when it lacks knowledge of a rare disease
+    - Automating abnormality detection in pre-natal babies using prenatal ultrasound segmentation
+    - A mobile dating app for people looking for serious relationships
 ```
 ```
 🌱 I’m currently learning about:
-    - how to sync OneDrive to a linux server
+    - popular semi-supervised learning methods
+    - LLM quantization methods
+    - geohash searching for finding nearby users
 ```
 ```
 👯 I’m looking to collaborate on:
