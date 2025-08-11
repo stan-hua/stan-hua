@@ -4,25 +4,25 @@
 ```
 {
     Name: "Stan",
-    Location: "Toronto, Ontario",
-    Job: "Data Scientist @ SickKids",
-    Education: "BS Computer Science",
+    Location: "Berkeley, California",
+    Job: "",
+    Education: ("PhD Computational Precision Health @ UC Berkeley & UCSF", "BS Computer Science @ UofT"),
     Email: "stanley.z.hua@gmail.com",
 }
 ```
 ```
 🔭 I'm currently working on:
-    - Improving AI-enabled automated view labeling of kidney ultrasound images/videos
-    - Investigating of LLMs in the clinic and the impact of quantization methods
-    - Exploring the effectiveness of LLMs when it lacks knowledge of a rare disease
-    - Automating abnormality detection in pre-natal babies using prenatal ultrasound segmentation
-    - A mobile dating app for people looking for serious relationships
+    - pediatric presence in public medical imaging datasets
+    - ood detection / selective classification for real-time ultrasound
+    - segmenting penis anatomy for children with hypospadias
+    - detecting anencephaly from first trimester ultrasounds
+    - social bias in large language models
 ```
 ```
 🌱 I’m currently learning about:
-    - popular semi-supervised learning methods
-    - LLM quantization methods
-    - geohash searching for finding nearby users
+    - selective classification
+    - reconstruction-based anomaly detection
+    - statistical learning theory
 ```
 ```
 👯 I’m looking to collaborate on:
