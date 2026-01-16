@@ -12,21 +12,17 @@
 ```
 ```
 🔭 I'm currently working on:
+    - an incident reporting framework with applications to AI scribes
+    - root cause analysis for performance shift in clinical ML
     - pediatric presence in public medical imaging datasets
-    - ood detection / selective classification for real-time ultrasound
-    - segmenting penis anatomy for children with hypospadias
-    - detecting anencephaly from first trimester ultrasounds
-    - social bias in large language models
 ```
 ```
 🌱 I’m currently learning about:
-    - selective classification
-    - reconstruction-based anomaly detection
-    - statistical learning theory
+    - (sequential) hypothesis testing theory
 ```
 ```
 👯 I’m looking to collaborate on:
-    - Anything ML for Health
+    - clinical AI monitoring/evaluation
 ```
 
 <!--
